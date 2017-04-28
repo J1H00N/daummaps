@@ -6,6 +6,6 @@
 
 ### Model
 - place
-    -name: string 
-    -lat, lng: integer
-    -description: text
+    - name: string 
+    - lat, lng: integer
+    - description: text
